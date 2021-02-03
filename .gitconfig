@@ -1,7 +1,0 @@
-[user]
-	email = browder.bree@gmail.com
-	name = breezybrow
-[push]
-	default = simple
-[credential]
-	helper = store
