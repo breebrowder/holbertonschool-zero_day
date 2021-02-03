@@ -1,6 +1,6 @@
 ## General
 
-* Practice using concepts from required blog posts given under Holberton School's curriculum.
+* Practicing using concepts from required blog posts given under Holberton School's curriculum.
 
 ### Concepts
 
