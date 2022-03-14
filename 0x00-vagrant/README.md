@@ -1,3 +1,3 @@
-# 0x00 Vagrant 
-
-1. ssh into your Ubuntu VM. What does the command uname print when you run it without any option?
+# General
+A README.md file at the root of the repo, containing a description of the repository
+A README.md file, at the root of the folder of this project (i.e. 0x00-vagrant), describing what this project is about
